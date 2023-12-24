@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/First-ReactApp/static/css/main.1be16876.css",
+    "main.js": "/First-ReactApp/static/js/main.796e8e9e.js",
+    "static/media/tom-and-jerry.jpg": "/First-ReactApp/static/media/tom-and-jerry.22d9bfb82b8dabf0976b.jpg",
+    "index.html": "/First-ReactApp/index.html",
+    "main.1be16876.css.map": "/First-ReactApp/static/css/main.1be16876.css.map",
+    "main.796e8e9e.js.map": "/First-ReactApp/static/js/main.796e8e9e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1be16876.css",
+    "static/js/main.796e8e9e.js"
+  ]
+}
